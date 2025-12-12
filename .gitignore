@@ -1,0 +1,6 @@
+# ignore audio files
+data/*.wav
+data/*.mp3
+
+# Jupyter auto save
+.ipynb_checkpoints/
